@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552378720732",
+    "project_id": "ubiqrss",
+    "storage_bucket": "ubiqrss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552378720732:android:54f1d9ee9ab73765a62f19",
+        "android_client_info": {
+          "package_name": "com.example.ubiqrss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552378720732-0eaetuh5vfqnhaalu1d837bahutf5993.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEq999pdxYikQoTEtBCAIRreX0vwVdRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552378720732-0eaetuh5vfqnhaalu1d837bahutf5993.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
